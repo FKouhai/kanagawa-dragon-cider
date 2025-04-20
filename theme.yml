@@ -1,0 +1,8 @@
+name: kanagawa-dragon
+stylesheets:
+  - file: main.css
+    name: smoke-dragon
+    description: Theme based on the kanagawa dragon color scheme
+  - file: ash-dragon.css
+    name: ash-dragon 
+    description: Theme based on the kanagawa dragon color scheme
