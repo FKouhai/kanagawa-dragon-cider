@@ -4,3 +4,5 @@ This theme is based off kanagawa dragon color scheme, it's been heavily inspired
 ![image](./assets/ash-dragon.png)
 ## Smoke Dragon
 ![image](./assets/smoke-dragon.png)
+## Kanagawa Bones
+![image](./assets/kanagawabones.png)
