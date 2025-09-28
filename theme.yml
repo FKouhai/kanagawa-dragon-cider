@@ -6,3 +6,6 @@ stylesheets:
   - file: ash-dragon.css
     name: ash-dragon 
     description: Theme based on the kanagawa dragon color scheme
+  - file: kanagawabones.css
+    name: kanagawa-bones
+    description: Theme based on the kanagawa bones color scheme
